@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use a Material Components theme with fixed color values -->
+    <style name="Theme.MessageSenderApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here with fixed color values -->
+        <item name="colorPrimary">#6200EE</item> <!-- Purple 500 -->
+        <item name="colorPrimaryVariant">#3700B3</item> <!-- Purple 700 -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- White -->
+        <item name="colorSecondary">#03DAC6</item> <!-- Teal 200 -->
+        <item name="colorSecondaryVariant">#018786</item> <!-- Teal 700 -->
+        <item name="colorOnSecondary">#000000</item> <!-- Black -->
+        <!-- Add other theme attributes as needed -->
+    </style>
+
+</resources>
